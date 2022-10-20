@@ -1,16 +1,16 @@
 {
-"name": "ufa6000",
-"theme": "ufa6000",
-"version": "9.10.6",
-"description": "ufa6000 ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
-"keywords": [
-"ufa6000",
-"ufa6000 เครดิตฟรี",
-"ufa6000 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/ufa6000",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "ufa6000",
+  "theme": "ufa6000",
+  "version": "9.11.0",
+  "description": "ufa6000 ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "ufa6000",
+    "ufa6000 เครดิตฟรี",
+    "ufa6000 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/ufa6000",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
